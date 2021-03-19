@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BabylonGame.unity
+  isLoaded: 1
+  isActive: 1
